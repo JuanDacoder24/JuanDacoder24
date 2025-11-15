@@ -52,5 +52,4 @@ Sourcetree
 
 “Un buen desarrollo no solo resuelve un problema, sino que mejora la experiencia de quien lo usa.”
 
-<img src="https://media.giphy.com/media/qQdL532ZANbjy/giphy.gif" width="200" />
 
