@@ -33,16 +33,24 @@ Visual Studio Code
 IntelliJ IDEA
 Sourcetree
 
-# 📂 Proyectos destacados
+## 🌟 Proyectos Destacados
 
-# 📰 Plataforma de Noticias (Angular + Bootstrap)
-Proyecto web con CRUD completo:
-Gestión de noticias dinámicas
-Diseño responsive con Bootstrap
-Servicios Angular para consumo de datos
+### 🔹 Sistema de Reservas Deportivas (JavaFX + MySQL)
+✔ Gestión de instalaciones  
+✔ Reservas en tiempo real  
+✔ Hash de contraseñas con BCrypt  
+
+### 🔹 App de Noticias (Angular)
+✔ CRUD completo  
+✔ Bootstrap + diseño responsive  
+✔ Conexión a API propia  
+
 
 📫 Contacto
 📧 servellonrejasjuandavid@gmail.com
 📍 Santander, España
 
 “Un buen desarrollo no solo resuelve un problema, sino que mejora la experiencia de quien lo usa.”
+
+<img src="https://media.giphy.com/media/qQdL532ZANbjy/giphy.gif" width="200" />
+
