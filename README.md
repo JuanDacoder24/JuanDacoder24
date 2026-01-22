@@ -4,10 +4,10 @@ Formandome con enfoque en desarrollo backend y frontend, diseño de bases de dat
 
 # 🚀 Sobre mí
 
-# 🎓 Estudiante de Desarrollo en Decroly (Santander)
-# 💻 Enfocado en proyectos con Java, Spring, Angular y MySQL
-# 🧩 Me interesa la arquitectura de software, la seguridad y el diseño de sistemas escalables
-# 📚 Actualmente mejorando mis habilidades en Spring Boot, Angular avanzado y patrones de diseño
+🎓 Estudiante de Desarrollo en Decroly (Santander)
+💻 Enfocado en proyectos con Java, Spring, Angular y MySQL
+🧩 Me interesa la arquitectura de software, la seguridad y el diseño de sistemas escalables
+📚 Actualmente mejorando mis habilidades en Spring Boot, Angular avanzado y patrones de diseño
 
 #🛠️ Tecnologías y herramientas
 
@@ -26,12 +26,12 @@ Formandome con enfoque en desarrollo backend y frontend, diseño de bases de dat
 
 
 # Herramientas y flujo de trabajo
-# Git & GitHub
-# Maven
-# Postman
-# Visual Studio Code
-# IntelliJ IDEA
-# Sourcetree
+Git & GitHub
+Maven
+Postman
+Visual Studio Code
+IntelliJ IDEA
+Sourcetree
 
 ## 🌟 Proyectos Destacados
 
