@@ -25,12 +25,12 @@ Formandome con enfoque en desarrollo backend y frontend, diseño de bases de dat
 
 
 # Herramientas y flujo de trabajo
-Git & GitHub
-Maven
-Postman
-Visual Studio Code
-IntelliJ IDEA
-Sourcetree
+- Git & GitHub
+- Maven
+- Postman
+- Visual Studio Code
+- IntelliJ IDEA
+- Sourcetree
 
 ## 🌟 Proyectos Destacados
 
@@ -45,9 +45,9 @@ Sourcetree
 ✔ Conexión a API propia  
 
 
-# 📫 Contacto
-# 📧 servellonrejasjuandavid@gmail.com
-#📍 Santander, España
+- 📫 Contacto
+- 📧 servellonrejasjuandavid@gmail.com
+- 📍 Santander, España
 
 “Un buen desarrollo no solo resuelve un problema, sino que mejora la experiencia de quien lo usa.”
 
