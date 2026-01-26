@@ -33,7 +33,6 @@ Formandome con enfoque en desarrollo backend y frontend, diseño de bases de dat
 
 # Herramientas y flujo de trabajo
 - Git & GitHub
-- Maven
 - Postman
 - Visual Studio Code
 - IntelliJ IDEA
